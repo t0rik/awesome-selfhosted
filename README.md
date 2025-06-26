@@ -1081,6 +1081,8 @@ Collaborative software or [groupware](https://en.wikipedia.org/wiki/Collaborativ
 - [Tine](https://www.tine-groupware.de/) - Software for digital collaboration in companies and organizations. From powerful groupware functionalities to clever add-ons, tine combines everything to make daily team collaboration easier. ([Source Code](https://github.com/tine-groupware/tine)) `AGPL-3.0` `Docker`
 - [Tracim](https://github.com/tracim/tracim) - Collaborative Platform for team collaboration: file,threads,notes,agenda,etc. `AGPL-3.0/LGPL-3.0/MIT` `Python`
 - [Zimbra Collaboration](https://www.zimbra.com/) - Email, calendar, collaboration server with Web interface and lots of integrations. ([Source Code](https://github.com/zimbra)) `GPL-2.0/CPAL-1.0` `Java`
+- [Carbonio CE] (https://www.zextras.com/) - Email, calendar, collaboration server with Web interface and lots of integrations ([Source Code](https://github.com/zextras) `GPL-2.0/CPAL-1.0` `Java`
+
 
 
 ### Health and Fitness
