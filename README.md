@@ -1066,7 +1066,7 @@ Collaborative software or [groupware](https://en.wikipedia.org/wiki/Collaborativ
 - [tine - Community Edition](https://github.com/tine20/tine20) - Contacts, Calendar, Tasks, WebDAV, ActiveSync, VoIP, Mail-Client, CRM, Sales, Projects, Timetracker. `AGPL-3.0` `PHP`
 - [Tracim](https://github.com/tracim/tracim) - Collaborative Platform for team collaboration: file,threads,notes,agenda,etc. `AGPL-3.0/LGPL-3.0/MIT` `Python`
 - [Zimbra Collaboration](https://www.zimbra.com/) - Email, calendar, collaboration server with Web interface and lots of integrations. ([Source Code](https://github.com/zimbra)) `GPL-2.0/CPAL-1.0` `Java`
-
+- [Carbonio CE](https://www.zextras.com/) - Zimbra fork, Email, calendar, collaboration server with Web interface and lots of integrations. ([Source Code](https://github.com/zextras)) `GPL-2.0/CPAL-1.0` `Java`
 
 ### Human Resources Management (HRM)
 
